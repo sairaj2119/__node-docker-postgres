@@ -1,2 +1,3 @@
-# __node-docker-postgres
-Simple NodeJS REST API demonstrating persistent Postgres database using Docker volumes 
+# \_\_node-docker-postgres
+
+Simple NodeJS REST API demonstrating persistent Postgres database using Docker volumes
